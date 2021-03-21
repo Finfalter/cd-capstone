@@ -1,2 +1,2 @@
-# cd-capstone
-capstone project for cloud-developer
+# Capstone Project for Udacity's cloud-developer
+
