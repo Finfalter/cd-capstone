@@ -47,6 +47,6 @@ npm run start
 
 This should start a development server with the React application that will interact with the serverless TODO application.
 
-# Postman collection
+## Postman collection
 
 An alternative way to use provided API is to use the Postman collection that contains sample requests. You can find a Postman collection in this project. 
