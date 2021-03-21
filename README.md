@@ -8,9 +8,11 @@ This application allows to create/remove/update/fetch TODO items. Each TODO item
 
 > **_NOTE:_** The full specification on method level may be accessed by typing the following command:
 
-```
+```bash
 npm test
 ```
+
+![REST APO Specification](images/api-spec.png)
 
 ## TODO items
 
@@ -29,7 +31,7 @@ The application stores TODO items, and each TODO item contains the following fie
 
 To deploy an application run the following commands:
 
-```
+```bash
 cd backend
 npm install
 sls deploy -v
@@ -39,7 +41,7 @@ sls deploy -v
 
 To deploy the frontend run the following commands:
 
-```
+```bash
 cd client
 npm install
 npm run start
@@ -49,4 +51,4 @@ This should start a development server with the React application that will inte
 
 ## Postman collection
 
-An alternative way to use provided API is to use the Postman collection that contains sample requests. You can find a Postman collection in this project. 
+An alternative way to use provided API is to use the Postman collection that contains sample requests. You can find a Postman collection in this project.
