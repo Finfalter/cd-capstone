@@ -6,16 +6,11 @@ The project is about a TODO application using __serverless__ components from AWS
 
 This application allows to create/remove/update/fetch TODO items. Each TODO item can optionally have an attachment image. Each user only has access to TODO items that he/she has created.
 
----
-**NOTE**
-
-The full specification on method level may be accessed by typing the following command:
+> **_NOTE:_** The full specification on method level may be accessed by typing the following command:
 
 ```
 npm test
 ```
-
----
 
 ## TODO items
 
